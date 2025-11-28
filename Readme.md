@@ -78,7 +78,3 @@ The trained policy successfully stabilizes the pole with smooth control actions.
 - Learning rate: 3e-4
 - Discount factor: 0.99
 - Clip epsilon: 0.2
-
-```
-
-```
